@@ -3,7 +3,7 @@ package TermWork1;
 import java.util.Scanner;
 
 public class TermWorkOne {
-   static int studentCount = 2;
+   static int studentCount = 5;
    static int subjectCount = 3;
     static int[][] marks = new int[studentCount][subjectCount];
     static int[] totalMarks = new int[studentCount];
