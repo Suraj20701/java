@@ -51,3 +51,6 @@ public class MyTringle {
 
   
 }
+
+
+//OUTPUT : https://docs.google.com/document/d/1vP1oXH3HU1g12LQURlYLdEOPAL-8smgPe5bi5X_GwZQ/edit?usp=sharing
